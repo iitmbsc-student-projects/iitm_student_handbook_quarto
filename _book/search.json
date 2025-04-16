@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "student_handbook",
+    "title": "IITM Student Handbook",
     "section": "",
     "text": "Preface\n\n\n\n  \n    \n    \n      IIT Madras\n      BS in Data Science and Applications\n      (4 year Undergraduate Degree Program)\n    \n  \n\n  \n    Student Handbook\n  \n\n  \n    \n      IITM BS Degree Office, 3rd Floor, ICSR Building, IIT Madras, Chennai - 600036\n    \n    \n      support@study.iitm.ac.in",
     "crumbs": [
@@ -182,9 +182,9 @@
   {
     "objectID": "13-learning-paths-available.html",
     "href": "13-learning-paths-available.html",
-    "title": "5  Learning Paths Overview",
+    "title": "Learning Paths Overview",
     "section": "",
-    "text": "5.1 13. Learning paths available\nHere are some suggested learning paths:",
+    "text": "13. Learning paths available\nHere are some suggested learning paths:",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Learning Paths Overview</span>"
     ]
@@ -192,7 +192,7 @@
   {
     "objectID": "13-learning-paths-available.html#13.-learning-paths-available",
     "href": "13-learning-paths-available.html#13.-learning-paths-available",
-    "title": "5  Learning Paths Overview",
+    "title": "Learning Paths Overview",
     "section": "",
     "text": "Foundation course certificate\n\nDiploma in Programming\n\nDiploma in Data Science\n\nDiploma in Programming and Data Science\n\nBSc degree in Programming and Data Science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTerm\nFoundation\nPlan for One Diploma\nPlan for Both the Diplomas\nBSc Degree\nBS Degree\nShortest Path for BSc Degree\n\n\n\n\nYear 1\nTerm 1\n3\n1\n1\n2\n2\n4\n\n\n\nTerm 2\n2\n2\n2\n3\n3\n4\n\n\n\nTerm 3\n3\n2\n2\n3\n3\n4\n\n\nYear 2\nTerm 1\n\n2\n2\n3\n3\n4\n\n\n\nTerm 2\n\n1\n2\n2\n2\n4\n\n\n\nTerm 3\n\n2\n2\n2\n2\n4\n\n\nYear 3\nTerm 1\n\n1\n1\n3\n3\n4\n\n\n\nTerm 2\n\n1\n2\n3\n3\n3\n\n\n\nTerm 3\n\n2\n1\n2\n2\n\n\n\nYear 4\nTerm 1\n\n\n2\n3\n3\n\n\n\n\nTerm 2\n\n\n2\n2\n2\n\n\n\n\nTerm 3\n\n\n1\n3\n3\n\n\n\nTotal Courses\n\n8\n14\n20\n31\n\n31",
     "crumbs": [
@@ -202,9 +202,9 @@
   {
     "objectID": "13-learning-paths-available.html#13.1-prerequisite-course-requirements",
     "href": "13-learning-paths-available.html#13.1-prerequisite-course-requirements",
-    "title": "5  Learning Paths Overview",
-    "section": "5.2 13.1 Prerequisite course requirements",
-    "text": "5.2 13.1 Prerequisite course requirements\n\n5.2.1 Foundation courses\n\n\n\nLevel\nCourse\nPre-req\nCoreq\n\n\n\n\nFoundation\nMaths 1\n-\n-\n\n\n\nStatistics 1\n-\n-\n\n\n\nEnglish 1\n-\n-\n\n\n\nCT\n-\n-\n\n\n\nMaths 2\nMaths 1\n\n\n\n\nStatistics 2\nStatistics 1\nMaths 2\n\n\n\nEnglish 2\nEnglish 1\n\n\n\n\nIntro to Python\nCT\n\n\n\n\n\nA co-requisite for Statistics-2 is Maths-2. So either Maths-2 has to be done before Statistics-2 or both can be taken together. Statistics-2 cannot be done without having done Maths-2.\nAll the 8 Foundation courses should be completed before the candidate can register to any Year 2 Diploma level course.\n\n\n\n5.2.2 Diploma level courses\n\n\n\nLevel\nCourse\nPre-req\nCoreq\n\n\n\n\nDiploma in DS\nMLF\n-\n-\n\n\n\nBDM\n-\n-\n\n\n\nMLT\n\nMLF\n\n\n\nMLP\nMLT, MLF\n\n\n\n\nBA\nBDM\n\n\n\n\nTDS\n\nMLF\n\n\nDiploma in Prog\nDBMS\n-\n-\n\n\n\nPDSA\n-\n-\n\n\n\nApp dev 1\n-\nDBMS\n\n\n\nJava\n-\n-\n\n\n\nApp dev 2\nApp dev 1\n\n\n\n\nSC\n-\n-\n\n\n\n\nWithout completing all the 8 Foundation courses and the 12 Diploma level courses plus 4 project courses, one cannot proceed to register for Year 3 Degree level courses.\n\n\n\n5.2.3 Degree Level Courses\n\n\nPlease note that L5_Degree courses are complex compared to Degree and L4_Degree courses. Course fee and credits are the same as L4_Degree courses.",
+    "title": "Learning Paths Overview",
+    "section": "13.1 Prerequisite course requirements",
+    "text": "13.1 Prerequisite course requirements\n\nFoundation courses\n\n\n\nLevel\nCourse\nPre-req\nCoreq\n\n\n\n\nFoundation\nMaths 1\n-\n-\n\n\n\nStatistics 1\n-\n-\n\n\n\nEnglish 1\n-\n-\n\n\n\nCT\n-\n-\n\n\n\nMaths 2\nMaths 1\n\n\n\n\nStatistics 2\nStatistics 1\nMaths 2\n\n\n\nEnglish 2\nEnglish 1\n\n\n\n\nIntro to Python\nCT\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\n\nA co-requisite for Statistics-2 is Maths-2. So either Maths-2 has to be done before Statistics-2 or both can be taken together. Statistics-2 cannot be done without having done Maths-2.\n\nAll the 8 Foundation courses should be completed before the candidate can register to any Year 2 Diploma level course.\n\n\n\n\n\nDiploma level courses\n\n\n\nLevel\nCourse\nPre-req\nCoreq\n\n\n\n\nDiploma in DS\nMLF\n-\n-\n\n\n\nBDM\n-\n-\n\n\n\nMLT\n\nMLF\n\n\n\nMLP\nMLT, MLF\n\n\n\n\nBA\nBDM\n\n\n\n\nTDS\n\nMLF\n\n\nDiploma in Prog\nDBMS\n-\n-\n\n\n\nPDSA\n-\n-\n\n\n\nApp dev 1\n-\nDBMS\n\n\n\nJava\n-\n-\n\n\n\nApp dev 2\nApp dev 1\n\n\n\n\nSC\n-\n-\n\n\n\n\nWithout completing all the 8 Foundation courses and the 12 Diploma level courses plus 4 project courses, one cannot proceed to register for Year 3 Degree level courses.\n\n\n\nDegree Level Courses\n\n\nPlease note that L5_Degree courses are complex compared to Degree and L4_Degree courses. Course fee and credits are the same as L4_Degree courses.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Learning Paths Overview</span>"
     ]
@@ -237,6 +237,16 @@
     "text": "7.2 this a third heading\nThis is a third heading\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "13-learning-paths-available.html#todo-list",
+    "href": "13-learning-paths-available.html#todo-list",
+    "title": "Learning Paths Overview",
+    "section": "TODO List",
+    "text": "TODO List\n\nComplete section on learning paths\nFix broken image paths\nReview the introduction chapter",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Learning Paths Overview</span>"
     ]
   }
 ]

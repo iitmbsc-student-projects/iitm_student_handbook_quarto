@@ -2,7 +2,7 @@
 title: "Learning Paths Overview"
 format: html
 toc: true
-number-sections: true
+number-sections: false
 ---
 
 ## 13. Learning paths available {#13.-learning-paths-available}
@@ -46,8 +46,12 @@ Here are some suggested learning paths:
 |               | English 2         | English 1    |           |
 |               | Intro to Python   | CT           |           |
 
-> A co-requisite for Statistics-2 is Maths-2. So either Maths-2 has to be done before Statistics-2 or both can be taken together. Statistics-2 cannot be done without having done Maths-2.  
-> All the 8 Foundation courses should be completed before the candidate can register to any Year 2 Diploma level course.
+
+::: {.callout-note}
+-  A co-requisite for Statistics-2 is Maths-2. So either Maths-2 has to be done before Statistics-2 or both can be taken together. Statistics-2 cannot be done without having done Maths-2.  
+-  All the 8 Foundation courses should be completed before the candidate can register to any Year 2 Diploma level course.
+
+:::
 
 ### Diploma level courses {#diploma-level-courses}
 
@@ -77,3 +81,9 @@ Here are some suggested learning paths:
 ---
 
 [image14]: images/image14.png
+## TODO List
+
+- [ ] Complete section on learning paths
+- [x] Fix broken image paths
+- [ ] Review the introduction chapter
+

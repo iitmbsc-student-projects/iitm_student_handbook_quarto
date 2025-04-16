@@ -1,10 +1,17 @@
 project:
   type: book
+  
 
 book:
-  title: "student_handbook"
-  author: "Norah Jones"
+  title: "IITM Student Handbook"
+  reader-mode: true
+  author: "Srinivas Chilukuri"
   date: "4/15/2025"
+  page-footer:
+    left: |
+      Revision Date 14 April 2025.
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
   chapters:
     - index.qmd
     - references.qmd
@@ -15,6 +22,9 @@ book:
     - 13-learning-paths-available.qmd
     - summary.qmd
     - intro.qmd
+    - part: "Appendices"
+      chapters:
+        - 13-learning-paths-available.qmd
 
 bibliography: references.bib
 
@@ -22,7 +32,10 @@ format:
   html:
     theme:
       - cosmo
-      - brand
+      
+    page-footer:
+      left: "© 2025 Your Name or Organization"
+      right: "[GitHub](https://github.com/yourrepo)"
   pdf:
     documentclass: scrreprt
 

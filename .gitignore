@@ -10,3 +10,5 @@
 
 # Ignore Quarto-specific cache and metadata
 .quarto/
+
+/.quarto/

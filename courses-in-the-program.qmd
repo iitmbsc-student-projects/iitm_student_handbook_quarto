@@ -1,0 +1,121 @@
+---
+title: "Courses and Programme Fees"
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    page-layout: full
+---
+
+## 3. Courses in the Programme
+
+## 3.1 Definition of Credit in the Program
+
+The credits here are based on the UGC system of counting 14 hours of learner engagement as 1 credit. (1 credit mentioned here would be equivalent to 3 credits in the current IITM campus Credit system.)
+
+The number of credits required to graduate with the BSc is 114 while that for the BS is 142. The structure of the program is as follows:
+
+## 3.2 Level 1: The Foundation Level
+
+- Comprises 8 courses: English 1, English 2, Mathematics 1, Mathematics 2, Statistics 1, Statistics 2, Computational Thinking, Introduction to Python
+- Number of credits: 32
+
+## 3.3 Level 2: Diploma Level
+
+- Includes 2 Diplomas: Diploma in Programming and Diploma in Data Science
+- Each diploma comprises 6 courses (23 credits) and 2 project courses (4 credits)
+- Total credits: 54
+
+**Diploma in Programming**
+- DBMS, PDSA using Python, Java, System Commands, Application Development - 1 & 2
+- Project courses for each Application Development course
+
+**Diploma in Data Science**
+- MLF, MLT, MLP, BDM, BA, TDS
+- Project in BDM and MLP
+
+> Students who fall short of 54 credits at this level must take additional BSc level courses to meet credit requirements.
+
+## 3.4 Level 3: BSc Degree Level Courses
+
+- Total credits: 28
+- Mandatory: 2 core pairs (Software Engineering + Software Testing, AI + DL), and Strategies for Professional Growth
+- Max 4 credits via NPTEL (technical)
+
+## 3.5 Level 4: BS Degree Level Courses
+
+- Total credits: 28
+- Option for Apprenticeship: 4/12 credits
+- Mandatory 4 credits from HS/MG (via NPTEL or electives)
+- 2 courses each in programming and data science streams (Level 4)
+
+Apprenticeship is split:
+- 4 credits for 4-month internship
+- 8 credits for continuation (months 5-8)
+- Optional: 0/4/8/12 credits
+
+### Additional Tables and Notes
+
+1. Tables:
+   - Table 1: Electives offered
+   - Table 2: NPTEL electives for BSc
+   - Table 3: HS/MG electives via NPTEL
+
+> Tables are subject to periodic revision.
+
+2. Refer to "Credit Transfer for NPTEL Courses" for process and fees.
+
+**Course Code Convention**: 2xxx/3xxx/4xxx → Levels 2/3/4 respectively.
+
+## Minor in Economics and Finance
+
+- Mandatory: Corporate Finance, Managerial Economics
+- Elective: Game Theory and Strategy (more to be added)
+- Earnable only with BS degree (within 142 credits)
+- A separate document certifies the minor (no change to transcript or degree)
+
+# 4. Fees for the Entire Programme
+
+- First-year fees kept low for accessibility
+- Qualifier Exam Fee: Rs. 3000 (non-refundable)
+- Fee waivers available by category and income
+
+### Credits by Level
+
+| Level | Theory | Project | Apprenticeship | NPTEL | MG/HS/HM |
+|-------|--------|---------|----------------|--------|-----------|
+| Foundation | 32 | - | - | - | - |
+| Diploma in DS | 23 | 4 | - | - | - |
+| Diploma in P  | 23 | 4 | - | - | - |
+| BSc           | 28 - X | X (0-4) | - | 4 | - |
+| BS            | 28 - A - B | A (0/4/12) | B = 4 | - | 4 |
+
+*Max 24 credits transferable (non-CGPA counted)
+
+### Fee Structure (Sample)
+
+- **Foundation**: 32c × Rs. 1000 = Rs. 32,000
+- **Diploma**: Theory @ 2500/c, Project @ 1250/c → Rs. 1,25,000
+- **BSc**: Level 3: Rs. 2500/c, Level 4: Rs. 5000/c, NPTEL: Rs. 1000/c → Rs. ~64,000–90,000
+- **BS**: Rs. ~1.1L to 1.4L depending on Level 3/4 mix and NPTEL use
+
+### Fee Waiver Structure
+
+Based on category and income:
+
+- General: Full Fee (>5LPA), 50% waiver (≤5LPA)
+- EWS/OBC-NCL: Up to 75% waiver
+- SC/ST/PwD: 50–75% waiver
+
+> Waiver eligibility requires documentation.
+
+## SBI Loan Process
+
+- Contact: Martina/Angelin (9444020900 / 8608076093)
+- Interest: Starts from 8.10% (no collateral)
+- Loan includes student (Borrower) + one parent (Co-borrower)
+- SBI account required for both
+- Application to be filled digitally, printed, signed, and couriered via India Post to:
+  > 1st Cross Road, CAMPUS, Indian Institute of Technology, Chennai 600036
+

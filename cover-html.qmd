@@ -1,0 +1,79 @@
+---
+title: "Student Handbook"
+format:
+  html:
+    toc: false
+    number-sections: false
+    page-layout: full
+    theme: cosmo
+    raw_html: true
+
+
+---
+
+# &nbsp; {.unnumbered}
+
+
+```{=html}
+<style>
+.cover-box {
+  background-color: #fbe4d5;
+  padding: 2rem;
+  border: 2px solid black;
+  text-align: center;
+  font-family: "Arial", sans-serif;
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.cover-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cover-header img {
+  height: 100px;
+}
+
+.cover-title {
+  margin-top: 3rem;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.cover-footer {
+  font-size: 0.9rem;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 2rem;
+}
+</style>
+
+<div class="cover-box">
+  <div class="cover-header">
+    <img src="dd9b8149-a68f-4571-825a-4f6d8e983e0a.png" alt="IIT Madras Logo">
+    <div style="text-align:right">
+      <strong>IIT Madras</strong><br>
+      BS in Data Science and Applications<br>
+      <em>(4 year Undergraduate Degree Program)</em>
+    </div>
+  </div>
+
+  <div class="cover-title">
+    Student Handbook
+  </div>
+
+  <div class="cover-footer">
+    <div>
+      <em>IITM BS Degree Office, 3rd Floor, ICSR Building, IIT Madras, Chennai - 600036</em>
+    </div>
+    <div>
+      <em>support@study.iitm.ac.in</em>
+    </div>
+  </div>
+</div>
+
+```

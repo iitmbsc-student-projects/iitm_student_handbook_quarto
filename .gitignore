@@ -1,0 +1,12 @@
+# Ignore output files
+*.html
+*.pdf
+*.docx
+
+# Ignore intermediate files
+*.aux
+*.log
+*.out
+
+# Ignore Quarto-specific cache and metadata
+.quarto/

@@ -1,0 +1,29 @@
+---
+title: "Data Science & Applications"
+format:
+  html:
+    toc: true
+    number-sections: false
+    theme: cosmo
+---
+
+
+
+IIT Madras has launched the **BS in Data Science and Applications**. In this program, the course contents are delivered online and can be studied by anyone from anywhere, while the monthly quizzes and final semester exams will have to be attended *in-person* at designated centres.
+
+Depending on the number of courses completed, learners can earn:
+
+- a Foundation level certificate  
+- Diploma in Programming / Diploma in Data Science / both  
+- BSc degree in Programming and Data Science  
+- BS degree in Data Science and Applications
+
+# 1. Highlights of the Programme
+
+Courses are taught by faculty of IIT Madras, other reputed institutes, and experts from the industry.
+
+Unlike many competitive admission exams which work on the philosophy of elimination and selection — admitting a very limited number of learners based on relative performance — this programme follows **qualifying criteria**, allowing a significantly large number of learners to enroll.
+
+Learners from **any background** — engineering, sciences, humanities, arts, medicine, law, etc. — can attempt and join this programme.
+
+There are **no restrictions on age or geographical location**.

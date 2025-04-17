@@ -19,6 +19,7 @@ book:
   repo-url: https://github.com/shriaviator/iitm_student_handbook_quarto
   repo-branch: main
   repo-actions: [edit, issue,source]
+  downloads: [pdf, epub]
   chapters:
     - index.qmd
     - references.qmd
@@ -46,10 +47,3 @@ format:
       right: "[GitHub](https://github.com/yourrepo)"
   pdf:
     documentclass: scrreprt
-
-
-navbar:
-  right:
-    - text: "📄 Download PDF"
-      href: downloads/index.pdf
-      icon: download

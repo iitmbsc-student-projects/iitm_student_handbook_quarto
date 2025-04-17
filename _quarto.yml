@@ -34,7 +34,7 @@ book:
       chapters:
         - 13-learning-paths-available.qmd
 
-bibliography: references.bib
+#bibliography: references.bib
 
 format:
   html:

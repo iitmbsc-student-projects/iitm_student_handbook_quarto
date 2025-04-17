@@ -15,7 +15,7 @@ book:
   site-url: https://r4ds.hadley.nz/
   repo-url: https://github.com/shriaviator/iitm_student_handbook_quarto
   repo-branch: main
-  repo-actions: [edit, issue]
+  repo-actions: [edit, issue,source]
   chapters:
     - index.qmd
     - references.qmd

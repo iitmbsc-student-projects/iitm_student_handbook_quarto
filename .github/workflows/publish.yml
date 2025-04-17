@@ -1,26 +1,33 @@
-name: Publish Quarto Book
+name: Deploy
 
 on:
+  workflow_dispatch:
   push:
-    branches: [main]  # or the branch you work on
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
 
 jobs:
-  publish:
+  deploy:
     runs-on: ubuntu-latest
-    permissions:
+    permissions: 
       contents: write
+      pages: write
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: quarto-dev/quarto-actions/setup@v2
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Install Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
         with:
-          version: "latest"
-
-      - name: Render the book
-        run: quarto render
-
-      - name: Publish to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+          version: pre-release
+      # Add any additional steps as needed, such as installing dependencies
+      - name: Build and Deploy
+        uses: quarto-dev/quarto-actions/publish@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: _book
+          target: gh-pages

@@ -86,4 +86,6 @@ Here are some suggested learning paths:
 - [ ] Complete section on learning paths
 - [x] Fix broken image paths
 - [ ] Review the introduction chapter
+- [ ] This is a sample citation to Knuth's work [@knuth84].
+- [ ] the above dummy has been created so that atleast one reference exists
 

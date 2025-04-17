@@ -12,6 +12,10 @@ book:
       Revision Date 14 April 2025.
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
+  site-url: https://r4ds.hadley.nz/
+  repo-url: https://github.com/shriaviator/iitm_student_handbook_quarto
+  repo-branch: main
+  repo-actions: [edit, issue]
   chapters:
     - index.qmd
     - references.qmd

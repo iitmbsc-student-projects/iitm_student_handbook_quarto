@@ -11,7 +11,7 @@ format:
 
 
 
-[https://docs.google.com/document/u/1/d/1N5ZmPJZUDHznjt6G_GZiRS1baG_WpOfJM-oFnvWve76Y/pub](https://docs.google.com/document/u/)
+[https://docs.google.com/document/u/1/d/1N5ZmPJZUDHznjt6G_ZiRS1baG_WpOfJM-oFnvWve76Y/pub](https://docs.google.com/document/u/1/d/1N5ZmPJZUDHznjt6G_ZiRS1baG_WpOfJM-oFnvWve76Y/pub)
 
 ## TODO
 

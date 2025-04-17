@@ -1,0 +1,26 @@
+name: Publish Quarto Book
+
+on:
+  push:
+    branches: [main]  # or the branch you work on
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: "latest"
+
+      - name: Render the book
+        run: quarto render
+
+      - name: Publish to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: _book

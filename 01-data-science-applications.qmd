@@ -18,7 +18,7 @@ Depending on the number of courses completed, learners can earn:
 - BSc degree in Programming and Data Science  
 - BS degree in Data Science and Applications
 
-# 1. Highlights of the Programme
+## 1. Highlights of the Programme
 
 Courses are taught by faculty of IIT Madras, other reputed institutes, and experts from the industry.
 

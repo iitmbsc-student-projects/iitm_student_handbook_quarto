@@ -1,16 +1,41 @@
 ---
 format:
   html:
-    toc: true
+    toc: false
     number-sections: false
     theme: cosmo
     page-layout: full
     css: styles/style.css
+    html: true
 ---
 
-# Notice {#notice-heading .unnumbered}
+# Notice {.unnumbered}
 
-## Please read this 
 
-| Dear student, This Student Handbook is intended to provide IIT Madras BS Degree students with the information and policies they should be aware of, which may help them make the most of the opportunities offered in this programme. It also gives you formal notification and explanation of the programme’s regulations, policies and procedures. It is essential, and your responsibility, to read it and familiarize yourself with the content. It should be kept handy and referred to during your time with us. This handbook may be revised time and again. While this student handbook was prepared on the basis of the best information available at the time of publication, all information, including policies and procedures are subject to change without notice or obligation. All rules and regulations in this document are approved by our committee. As changes keep getting approved, we will update them here. We hope that your time as a student in this programme is successful and enjoyable. Thank you. |
-| :---- |
+```{=html}
+<div id="notice-table">
+  <p><strong>Dear student,</strong></p>
+  <p>
+    This Student Handbook is intended to provide IIT Madras BS Degree students with the
+    information and policies they should be aware of, which may help them make the most of
+    the opportunities offered in this programme. It also gives you formal notification and
+    explanation of the programme’s regulations, policies and procedures.
+  </p>
+  <p>
+    It is essential, and your responsibility, to read it and familiarize yourself with the
+    content. It should be kept handy and referred to during your time with us. This handbook
+    may be revised time and again. While this student handbook was prepared on the basis of
+    the best information available at the time of publication, all information, including
+    policies and procedures are subject to change without notice or obligation.
+  </p>
+  <p>
+    All rules and regulations in this document are approved by our committee. As changes
+    keep getting approved, we will update them here.
+  </p>
+  <p>
+    We hope that your time as a student in this programme is successful and enjoyable.
+  </p>
+  <p><strong>Thank you.</strong></p>
+  
+</div>
+```

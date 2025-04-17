@@ -17,12 +17,12 @@ book:
     - references.qmd
     - notice.qmd
     - 01-data-science-applications.qmd
-    - fexibility.qmd
-    - courses-in-the-program.qmd
+    - 02-fexibility.qmd
+    - 03-courses-in-the-program.qmd
     - fees-entire-program.qmd
     - 13-learning-paths-available.qmd
-    - summary.qmd
-    - intro.qmd
+    - 20-non-academic-rules.qmd
+    
     - part: "Appendices"
       chapters:
         - 13-learning-paths-available.qmd

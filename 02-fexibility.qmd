@@ -8,7 +8,7 @@ format:
     page-layout: full
 ---
 
-# Flexibility
+
 
 There are two entry and four exit points, with learners being able to exit with either course certificates, or diploma or the degree. Learners can choose their pace of study every term. Being an online programme, there is no geographical barrier to learning from this programme — learners only need to travel to exam centres for exams each term.
 

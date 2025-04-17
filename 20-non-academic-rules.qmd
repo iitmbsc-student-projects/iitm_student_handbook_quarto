@@ -1,0 +1,20 @@
+---
+title: "Non Academic Rules"
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+---
+
+
+
+
+
+[https://docs.google.com/document/u/1/d/1N5ZmPJZUDHznjt6G_GZiRS1baG_WpOfJM-oFnvWve76Y/pub](https://docs.google.com/document/u/)
+
+## TODO
+
+- [ ] Review and finalize content for Non Academic Rules section.
+- [ ] Confirm if external link is sufficient or if content should be embedded.
+- [ ] Check formatting for Quarto compatibility.

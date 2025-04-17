@@ -40,12 +40,7 @@
 
 <div class="cover-box">
   <div class="cover-header">
-    <img src="dd9b8149-a68f-4571-825a-4f6d8e983e0a.png" alt="IIT Madras Logo">
-    <div style="text-align:right">
-      <strong>IIT Madras</strong><br>
-      BS in Data Science and Applications<br>
-      <em>(4 year Undergraduate Degree Program)</em>
-    </div>
+    <img src="images/IITM-Logo-Degree-in-DS.svg" alt="IIT Madras Logo">
   </div>
 
   <div class="cover-title">

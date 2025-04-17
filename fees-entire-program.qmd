@@ -1,5 +1,5 @@
 ---
-title: "Programme Fees Details"
+title: "Fees for the entire programme"
 format:
   html:
     toc: true
@@ -8,101 +8,85 @@ format:
     page-layout: full
 ---
 
-## 4. Fees for the entire programme
 
-- First year fees kept low to enable learners to try out the programme
-- Entry fee for Qualifier exam: Rs. 3000 (non-refundable) - with suitable waivers
-- Fee waivers for learners belonging to certain categories and economic backgrounds
 
-## Number of credits in each level
+- First year fees kept low to enable learners to try out the programme  
+- Entry fee for Qualifier exam: Rs. 3000 (non-refundable) \- with suitable waivers  
+- Fee waivers for learners belonging to certain categories and economic backgrounds 
 
-| Level           | Theory | Project | Apprenticeship | NPTEL | MG/HS/HM |
-|------------------|--------|---------|----------------|--------|-----------|
-| Foundation       | 32     |         |                |        |           |
-| Diploma in DS    | 23     | 4       |                |        |           |
-| Diploma in P     | 23     | 4       |                |        |           |
-| BSc              | 28 - X | X (0-4) |                |        |           |
-| BS               | 28-A-B | A (0/4/12) | B = 4        |        |           |
+Number of credits in each level:
 
-> Only a maximum of 24 credits can be transferred towards non-CGPA counted courses.
+| Level         | Theory   | Project | Apprenticeship | NPTEL     | MG/HS/HM |
+|:--------------|:---------|:--------|:----------------|:----------|:---------|
+| Foundation    | 32       |         |                 |           |          |
+| Diploma in DS | 23       | 4       |                 |           |          |
+| Diploma in P  | 23       | 4       |                 |           |          |
+| BSc           | 28-X     |         |                 | X (0-4)   |          |
+| BS            | 28-A-B   |         | A (0/4/12)      |           | B=4      |
 
-### Fee Overview
 
-- Foundation: Rs. 32,000/-
-- Diploma Level: Rs. 62,500 × 2 = Rs. 125,000/-
-- BSc Level: Rs. 2.21L - 2.47L
-- BS Level: Rs. 3.25L - 3.87L
+**\*Only maximum of 24 credits can be transferred towards non counted CGPA course**
 
-### Cost per Credit
+**Foundation: Rs 32000/-**  
+**Diploma Level: 62500 x 2 \= Rs 125,000/-**  
+**BSc Level: Rs 2.21L \- 2.47L**          
+**BS Level: 3.25L \- 3.87L**
 
-| Level     | Fee per Credit (Rs) | Credits Breakdown                   | Total Fee (Rs) |
-|-----------|----------------------|-------------------------------------|----------------|
-| Foundation| 1000/c               | 32c                                 | 32,000         |
-| Diploma   | 2500/c Theory, 1250/c Project | 23×2 = 46c (Theory), 4×2 = 8c (Project) | 115,000 (Theory), 10,000 (Project), Total: 125,000 |
+|              | Cost per credit (Rs)                                | Number of credits                                                                                   | Total fee                                                                                             | Level fees                          |
+|:-------------|:----------------------------------------------------|:------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:------------------------------------|
+| Foundation   | 1000/c                                              | 32c                                                                                                   | 32000                                                                                                   | 32,000                               |
+| Diploma      | 2500/c for Theory 1250/c for project                | 23x2=46c 4x2 = 8c                                                                                     | 115,000 10,000                                                                                          | 125,000                              |
+| BSc          | Level 3 - Rs 2500/c Level 4 - Rs 5000/c 1000/c for NPTEL | 20c for 5 mandatory courses (Level 3) 4c NPTEL+4c Level 3 4c NPTEL + 4c Level 4 8c Level 3 4c Level 3 + 4c Level 4 8c Level 4 | 50000 4000+10000 4000+20000 20000 30000 40000                                                           | 64,000 74,000 70,000 80,000 90,000   |
+| BS           | Level 3 - Rs 2500/c Level 4 - Rs 5000/c 1000/c for NPTEL | 2 Level 4 mandatory DS = 8c 2 Level 4 mandatory DP = 8c 4c NPTEL + 8c Level 3 4c NPTEL + 4c Level 3 + 4c Level 4 4c NPTEL + 8c Level 4 12c Level 3 12c Level 4 | 40000 40000 4000+20000 4000+30000 4000+40000 30000 60000                                               | 104000 114000 124000 110000 140000   |
 
-#### BSc Fee Scenarios
 
-| Course Combination                                     | Total Fee (Rs) |
-|--------------------------------------------------------|----------------|
-| Level 3 (20c)                                          | 50,000         |
-| 4c NPTEL + 4c Level 3                                  | 14,000         |
-| 4c NPTEL + 4c Level 4                                  | 24,000         |
-| 8c Level 3                                             | 20,000         |
-| 4c Level 3 + 4c Level 4                                | 30,000         |
-| 8c Level 4                                             | 40,000         |
-| **Range (Sum Total)**                                 | 64,000 - 90,000|
+Fee waivers depend on the category of learner and family income
 
-#### BS Fee Scenarios
+|  | Family Income \> 5 LPA |  | Family Income \> 1 LPA and \<= 5 LPA |  | Family Income \<= 1 LPA |  |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  | **Fees** | **Docs Required** | **Fees** | **Docs Required** | **Fees** | **Docs Required** |
+| General | Full Fee | NIL | 50% waiver | EWS \+ Family Income | 75% waiver | EWS \+ Family Income |
+| OBC | Full Fee | NIL | 50% waiver | OBC-NCL \+ Family Income | 75% waiver | OBC-NCL \+ Family Income |
+| SC / ST | 50% waiver | SC / ST | 50% waiver | SC / ST | 75% waiver | SC / ST \+ Family Income |
+| PwD | 50% waiver | PwD | 50% waiver | PwD | 75% waiver | PwD \+ EWS / OBC-NCL \+ Family Income |
+| SC / ST \+ PwD | 75% waiver | SC / ST \+ PwD | 75% waiver | SC / ST \+ PwD | 75% waiver | SC / ST \+ PwD |
 
-| Course Combination                                     | Total Fee (Rs) |
-|--------------------------------------------------------|----------------|
-| 2 Level 4 DS + 2 Level 4 DP (16c)                      | 80,000         |
-| 4c NPTEL + 8c Level 3                                  | 44,000         |
-| 4c NPTEL + 4c Level 3 + 4c Level 4                     | 64,000         |
-| 4c NPTEL + 8c Level 4                                  | 84,000         |
-| 12c Level 3                                            | 30,000         |
-| 12c Level 4                                            | 60,000         |
-| **Range (Sum Total)**                                 | 1,10,000 - 1,40,000|
+**SBI Loan Process:** 
 
-## Fee Waivers Based on Category and Family Income
+Please contact Martina/Angelin Ph No 9444020900/8608076093, for any help.  
+   
+**Rate of interest starts from 8.10% with no collateral security and  simple interest till course completion**  
+   
+· Loan is given to students along with any one parent, Father or Mother.
 
-| Category          | > 5 LPA | ≤ 5 LPA | ≤ 1 LPA |
-|-------------------|---------|---------|----------|
-| General           | Full Fee | 50%     |          |
-| EWS               |         |         | 75%      |
-| OBC               | Full Fee | 50%     |          |
-| OBC-NCL           |         |         | 75%      |
-| SC/ST             | 50%     | 50%     | 75%      |
-| PwD               | 50%     | 50%     | 75%      |
+· Student is known as Borrower and the parent who is taking out a loan with the student will be known as Co-borrower.
 
-> Documentation required for all waivers.
+· Student and co borrower both should have EITHER JOINT ACCOUNT IN SBI (any branch) or Separate accounts in SBI.
 
-## SBI Loan Process
+· We will provide you Application form which needs to be filled digitally. Once filled, you need to take coloured print and sign the documents wherever needed. Also attach the documents as per LIST OF DOCUMENTS given below.
 
-- Contact: Martina / Angelin (9444020900 / 8608076093)
-- Interest rate starts at 8.10%, no collateral required, simple interest until course completion
-- Borrower: Student; Co-borrower: Parent (Father or Mother)
-- Both must hold either joint or separate SBI accounts
-- Application process:
-  - Digital form to be printed, signed
-  - Submit with supporting documents to:
-    > 1st Cross Road, CAMPUS, Indian Institute of Technology, Chennai 600036 (via India Post)
+· Application Print, and documents must be sent to following address using INDIA POST courier. 1st Cross Road, CAMPUS, Indian Institute of Technology, Chennai 600036
 
-## 4.1 For Students Outside India
+## For students who are outside India: {#4.1-for-students-who-are-outside-india:}
 
-Facilitation fee for overseas exam centers applies (varies by country and local partner).
+Facilitation fee for exams is in addition to the above for candidates writing exams overseas \- as fixed up with the local exam partner there. These are subject to periodic changes depending on the local exam partner identified.
 
-| Exam Type | Fee (Rs)         |
-|-----------|------------------|
-| Quiz 1    | 2,000            |
-| Quiz 2    | 2,000            |
-| End Term | 2,000 (1 course), 4,000 (>1 course) |
+**Facilitation Fee**  
+Quiz1 \[irrespective of num of courses\] \= Rs.2000/-  
+Quiz2  \[irrespective of num of courses\] \= Rs.2000/-  
+End term \[per session\] \= Rs.2000/- \[one course it is Rs.2000/- & more than one course it is Rs. 4000/-\]
 
-**Example** (for 4 courses):
-- Quiz 1: 2,000
-- Quiz 2: 2,000
-- End Term: 4,000
-- **Total: 8,000**
+E.,g If you opt for 4 courses  
+Quiz1 \= 2000, Quiz2 \= 2000, EndTerm \= 4000  
+Totally 8000 to be paid as a facilitation fee  
+\*Facilitation fee may vary based on country. Eg: Kuwait & Bahrain it is Rs. 3000/-
 
-> *Facilitation fee may vary depending on the country (e.g., Kuwait & Bahrain: Rs. 3,000)*
+## TODOs
 
+> **TODO**:
+> 
+> - [ ] Confirm breakdown of Level 3 and Level 4 course credits for BSc and BS rows  
+> - [ ] Replace variables like `X`, `A`, and `B` with specific values if available  
+> - [ ] Validate ranges in "Level Fees" columns with official records  
+> - [ ] Verify the latest contact and address details for SBI Loan process  
+> - [ ] Update facilitation fee figures if newer data is published

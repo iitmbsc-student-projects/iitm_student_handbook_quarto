@@ -10,6 +10,16 @@
     ]
   },
   {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
     "objectID": "notice.html",
     "href": "notice.html",
     "title": "Notice",
@@ -154,7 +164,7 @@
     "href": "13-learning-paths-available.html#todo-list",
     "title": "Learning Paths Overview",
     "section": "TODO List",
-    "text": "TODO List\n\nComplete section on learning paths\nFix broken image paths\nReview the introduction chapter",
+    "text": "TODO List\n\nComplete section on learning paths\nFix broken image paths\nReview the introduction chapter\nThis is a sample citation to Knuth’s work (Knuth 1984).\nthe above dummy has been created so that atleast one reference exists\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Learning Paths Overview</span>"
     ]

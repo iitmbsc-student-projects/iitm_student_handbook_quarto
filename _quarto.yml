@@ -1,6 +1,8 @@
 project:
   type: book
-  output-dir: docs
+  output-dir: _book
+execute:
+  freeze: auto
   
 
 book:
@@ -13,7 +15,7 @@ book:
       Revision Date 14 April 2025.
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
-  site-url: https://r4ds.hadley.nz/
+  site-url: https://iitmbsc-student-projects.github.io/iitm_student_handbook_quarto/
   repo-url: https://github.com/shriaviator/iitm_student_handbook_quarto
   repo-branch: main
   repo-actions: [edit, issue,source]

@@ -1,33 +1,25 @@
-name: Deploy
-
 on:
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: main
 
-permissions:
-  contents: read
-
-concurrency:
-  group: ${{ github.workflow }}
-  cancel-in-progress: true
+name: Quarto Publish
 
 jobs:
-  deploy:
+  build-deploy:
     runs-on: ubuntu-latest
-    permissions: 
+    permissions:
       contents: write
-      pages: write
     steps:
-      - name: Checkout repository
+      - name: Check out repository
         uses: actions/checkout@v4
-      - name: Install Quarto
+
+      - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-        with:
-          version: pre-release
-      # Add any additional steps as needed, such as installing dependencies
-      - name: Build and Deploy
+
+      - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

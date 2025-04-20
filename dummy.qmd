@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Dummy Section"
 format:
   html:
     toc: true

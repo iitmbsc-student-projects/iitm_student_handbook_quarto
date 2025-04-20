@@ -56,6 +56,6 @@ Some more helpful links that will help you in understanding possible system conf
 ## TODO
 
 - [ ] Clarify the IIT Madras 1 reference in footnote
-  
----
-[^1]: These requirements are listed on the official IIT Madras online portal, updated in 2025.
+
+[^1]: These requirements are listed on the official IIT Madras online portal, updated in 2025. 
+

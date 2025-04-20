@@ -1,8 +1,10 @@
 ---
 title: "Learning Paths Overview"
-format: html
-toc: true
-number-sections: false
+format:
+  html:
+    toc: true
+    number-sections: false
+    theme: cosmo
 ---
 
 ## 13. Learning paths available {#13.-learning-paths-available}

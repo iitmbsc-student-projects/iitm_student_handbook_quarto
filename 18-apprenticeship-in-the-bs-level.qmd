@@ -43,7 +43,7 @@ The following will be norms with respect to pursuing an apprenticeship:
      
    Please refer the link to know more about Apprenticeship: [IIT Madras BS Degree - Apprenticeship program](https://docs.google.com/document/d/e/2PACX-1vQ_ZCTw1_PzVDBJ7u-wX18KUgl-IK1POIYRvyjAYsj_A-tS99K7ARRuNVKk0tp34B1woqclNxvY_0Lc/pub){target="_blank"}
 
----
+
 ## TODO
 
 - [ ] Todo 1

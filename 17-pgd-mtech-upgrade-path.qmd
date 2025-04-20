@@ -37,7 +37,7 @@ This is our most recommended option for all students as the GATE score also enab
 
 **Check the link for more details:** [https://research.iitm.ac.in/](https://research.iitm.ac.in/)
 
----
+
 
 ##  Apply for the MS program as a CFTI student if you have CGPA ≥ 8.0 in IITM’s BS program (Campus program)
 
@@ -54,7 +54,7 @@ The Senate **noted** the omission of the CFTI clause and approved to include the
 
 **Check the link for more details:** [https://research.iitm.ac.in/](https://research.iitm.ac.in/){target="_blank"}
 
----
+
 
 ##  Apply to the MS program as Project Staff within IITM (Campus program)
 
@@ -69,7 +69,7 @@ The Senate **noted** the omission of the CFTI clause and approved to include the
   - Complete MS and apply for a PhD at IITM or elsewhere.
   - Upgrade and convert the MS into a PhD at IITM.
 
----
+
 
 ## Upgrade to the On-Campus MS program
 
@@ -82,7 +82,7 @@ The Senate **noted** the omission of the CFTI clause and approved to include the
 
 **Reference Doc:** [https://docs.google.com/spreadsheets/d/e/2PACX-1vQYJJLnpZt6d0IvEVSx8bhzUFQ8hImK7sAVvSLxZ_6flZbtBp87hWKg2AuorYPFzquT1vQG-FerAUMy/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYJJLnpZt6d0IvEVSx8bhzUFQ8hImK7sAVvSLxZ_6flZbtBp87hWKg2AuorYPFzquT1vQG-FerAUMy/pubhtml){target="_blank"}
 
----
+
 
 ## Upgrade to a PG Diploma or MTech Degree Online after the BS
 
@@ -102,7 +102,7 @@ Additional points:
 
 
 
----
+
 ## TODO
 
 - [ ] Todo 1

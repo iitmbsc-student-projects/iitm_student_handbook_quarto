@@ -19,7 +19,7 @@ book:
   repo-url: https://github.com/shriaviator/iitm_student_handbook_quarto
   repo-branch: main
   repo-actions: [edit, issue,source]
-  downloads: [pdf, epub]
+  downloads: [pdf]
   chapters:
     - index.qmd
     - references.qmd
@@ -45,5 +45,9 @@ format:
     page-footer:
       left: "© 2025 Your Name or Organization"
       right: "[GitHub](https://github.com/yourrepo)"
+    other-links:
+      - text: Disussion Forum
+        icon: chat-square-dots-fill
+        href: https://discourse.onlinedegree.iitm.ac.in/c/general/75
   pdf:
     documentclass: scrreprt

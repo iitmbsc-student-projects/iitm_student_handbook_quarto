@@ -1,0 +1,108 @@
+---
+title: "Pathways to get admission to Masters or Research programs at IITM"
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+---
+
+
+**\[Updated on April 12,2025\]**
+
+The table below summarises the main differences between an MTech and an MS program.
+
+|  | MTech | MS |
+| ----- | ----- | ----- |
+| **Program type** | Course and project-based | Research-based |
+| **Course load** | Typically 10-12 courses & labs | 5 courses |
+| **Project/Thesis** | Well-defined time-bound project (typically 1 year) | Open-ended research-based thesis |
+| **Orientation** | Industry-oriented | Research-oriented |
+| **Duration** | 2 years | Typically 2.5 to 3 years (varies by IITM/Guide’s discretion) |
+| **Program structure** | 2 semesters a year with winter and summer breaks | Limited vacation days that may be availed with approval from guide |
+
+**For more details on comparison between MS and MTech Upgrade refer to this document** \- 
+
+[**https://docs.google.com/document/d/e/2PACX-1vTmdXgF6oxRydXjIm\_H\_VmAWlbhcKGkEZt5D30t2l4rWCRBq9WyaqHXjCJlhZVnzt2yYghTULMFO4-O/pub**](https://docs.google.com/document/d/e/2PACX-1vTmdXgF6oxRydXjIm_H_VmAWlbhcKGkEZt5D30t2l4rWCRBq9WyaqHXjCJlhZVnzt2yYghTULMFO4-O/pub){target="_blank"}
+
+The details in this document are subject to change and are tentative guidelines. Please check IITM’s website for the rules currently applicable to each process.
+
+##  Get a GATE score/rank and apply to IITM’s MTech/MS or PhD programs (Campus program)
+
+Writing the GATE exam opens doors to you at hundreds of institutes, not just IITM. Using the GATE score, you can apply for an MTech, MS, or PhD depending on what other degree you have apart from the BS degree.
+
+- You will get a stipend from the institute if you join the MTech (HTTA) / MS or PhD program.
+
+This is our most recommended option for all students as the GATE score also enables you to apply to PSU jobs.
+
+**Check the link for more details:** [https://research.iitm.ac.in/](https://research.iitm.ac.in/)
+
+---
+
+##  Apply for the MS program as a CFTI student if you have CGPA ≥ 8.0 in IITM’s BS program (Campus program)
+
+- GATE score is not required.
+- You must go through the admission process, which may involve a test and/or interview.
+- The program will involve at least 1 year of coursework and another 1–2 years of research work.
+- Monthly stipend is provided by the institute.
+- Outcomes:
+  - Complete MS and apply for a job.
+  - Upgrade and convert the MS into a PhD at IITM.
+  - Complete the MS and apply for a PhD at IITM or outside.
+
+The Senate **noted** the omission of the CFTI clause and approved to include the CFTI clause in the minimum requirements for admission to MS programs for the departments of MST and DSAI at IIT Madras.
+
+**Check the link for more details:** [https://research.iitm.ac.in/](https://research.iitm.ac.in/){target="_blank"}
+
+---
+
+##  Apply to the MS program as Project Staff within IITM (Campus program)
+
+- If you are appointed as project staff in any project with faculty at IITM, you may be eligible for project admission to the MS program.
+- While you are project staff, you need to register for courses on campus, as approved by your project faculty.
+- You must complete two approved courses at IITM with CGPA ≥ 7.5, and obtain at least a ‘C’ grade in each course to be eligible to apply for admission.
+- GATE score or minimum CGPA in the IITM BS program is **not required** for this mode of admission.
+- You must go through the admission process as stipulated by the department, which can include a test and/or interview.
+- The institute does not pay you a stipend; you are supported through the project. The payment you get from the project is fixed by the PI.
+- Outcomes:
+  - Complete MS and apply for a job.
+  - Complete MS and apply for a PhD at IITM or elsewhere.
+  - Upgrade and convert the MS into a PhD at IITM.
+
+---
+
+## Upgrade to the On-Campus MS program
+
+- After completing 106 credits and achieving CGPA ≥ 8.0, you can apply in May/November each year through the form floated by the POD team for direct upgrade to MS.
+- If selected, you will do BS-level courses on campus (16 credits of coursework + 12 credits of project work).
+- Selection will be through a test and/or interview.
+- Once the BS-level credits are completed, you will be assessed for admission into the MS program.
+- A stipend will be paid by the institute as per prevailing norms.
+- Fees to be paid for the MS program are listed on the website.
+
+**Reference Doc:** [https://docs.google.com/spreadsheets/d/e/2PACX-1vQYJJLnpZt6d0IvEVSx8bhzUFQ8hImK7sAVvSLxZ_6flZbtBp87hWKg2AuorYPFzquT1vQG-FerAUMy/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYJJLnpZt6d0IvEVSx8bhzUFQ8hImK7sAVvSLxZ_6flZbtBp87hWKg2AuorYPFzquT1vQG-FerAUMy/pubhtml){target="_blank"}
+
+---
+
+## Upgrade to a PG Diploma or MTech Degree Online after the BS
+
+Once a student completes 142 credits and the BS degree, they can continue to study more courses.
+
+- Completing 20 more credits (3 core + 2 electives) earns a **PG Diploma**.
+- Continuing to complete a 20-credit project earns an **MTech** from IIT Madras.
+
+Additional points:
+
+- This upgrade option can be exercised anytime after completing 106 credits until reaching 142 credits.
+- CGPA cutoff required in the BS program for applying for this upgrade is **8.00**.
+- This option is **recommended for working professionals** who cannot afford to leave their jobs.
+- It is **strongly recommended** that standalone students (who joined BS after Std XII) **write the GATE exam** and **join a college for a Master’s degree**, instead of choosing this online upgrade.
+
+**Reference Doc:** [https://docs.google.com/document/d/e/2PACX-1vRrtiiHlurfHtFnJnDwtNZ0NHAci8PQ7pHsiX3V3SZKmbSmALDk4whCO5La6efs4MSmBLVTH2ZfGJNL/pub](https://docs.google.com/document/d/e/2PACX-1vRrtiiHlurfHtFnJnDwtNZ0NHAci8PQ7pHsiX3V3SZKmbSmALDk4whCO5La6efs4MSmBLVTH2ZfGJNL/pub){target="_blank"}
+
+
+
+---
+## TODO
+
+- [ ] Todo 1

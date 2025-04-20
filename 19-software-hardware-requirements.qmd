@@ -1,0 +1,61 @@
+---
+title: "Software and Hardware Requirements - Mandatory System Specifications"
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+---
+
+
+
+The following are the essential requirements that are recommended to pursue the BSc Degree program from IIT Madras[^1]. Please note that there will be updates in some of the specifications with changes happening in technology.  
+
+## Hardware
+
+To enroll and study in the program, every student is required to have a laptop or desktop with the minimum configuration being as follows: 
+
+1. RAM Size \- 8 GB or higher (The ability to install more memory is desirable).  
+2. Processor \- Intel 8th Generation or AMD 4th Generation or upwards or its equivalent (The latest processor configuration is always recommended)   
+3. Storage \- Minimum of 500 GB, Desirable of 1 TB. Having an SSD storage is desirable.  
+4. Screen size and resolution \- Minimum of 13” for laptop and Minimum of 15” for desktop with 1080p  
+5. Webcamera, a mic and speaker or an earphone/headphone with mic.
+
+## Software/Applications
+
+1. Operating System \- Minimum requirement of Windows 10 or Ubuntu LTS Version 20.04 (or any equivalent) or Mac OS Mojave. Having the capability of dual boot is desirable. If there is no capability for dual boot, then the operating system must support virtualization software like VirtualBox using which Ubuntu 20.04 can be emulated. The System Commands course in Semester 4 will be taught primarily on Ubuntu 20.04.  
+2. Browser \- Latest version of Chrome with Google Account signed in  
+3. Basic familiarity with Google Suite of tools (Docs, Sheets and Slides), specifically collaboration features.  
+4. Any other software that is specified within the course 
+
+## Internet Bandwidth 
+
+Minimum of 2 MBPS connection is required to attend sessions without disruptions. However we strongly recommend broadband connections with much higher bandwidth for the best learning experience. 
+
+## For Online Interactions/Proctored Examinations
+
+1. Browser \- Latest version of Chrome is desirable  
+2. Mobile with a front camera and good internet connection (VOLTE connections are ideal)  
+3. Mic and speaker to be able to speak to and listen to the person at the other end  
+4. Any applications as required to be installed for the interactions/examinations
+
+## System compatibility test 
+
+All students have to mandatorily attend the system compatibility test and ensure that the system you have conforms to the above requirements and student has to participate in this on the dates mentioned by the Admin team to get this completed.
+
+## Other References 
+
+Some more helpful links that will help you in understanding possible system configurations:
+
+1. [https://towardsdatascience.com/20-necessary-requirements-of-a-perfect-laptop-for-data-science-and-machine-learning-tasks-7d0c59c3cb63](https://towardsdatascience.com/20-necessary-requirements-of-a-perfect-laptop-for-data-science-and-machine-learning-tasks-7d0c59c3cb63)  
+2. [https://www.practicaldatascience.org/html/buying\_datascience\_computer.html](https://www.practicaldatascience.org/html/buying_datascience_computer.html)  
+3. [https://www.umass.edu/it/support/hardware/recommended-minimum-computer-configurations-windows](https://www.umass.edu/it/support/hardware/recommended-minimum-computer-configurations-windows)  
+4. [https://www.du.edu/it/support/how-to/students/laptops](https://www.du.edu/it/support/how-to/students/laptops)  
+5. [https://wmich.edu/cs/laptop-requirements](https://wmich.edu/cs/laptop-requirements)  
+
+## TODO
+
+- [ ] Clarify the IIT Madras 1 reference in footnote
+  
+---
+[^1]: These requirements are listed on the official IIT Madras online portal, updated in 2025.

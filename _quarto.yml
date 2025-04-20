@@ -28,7 +28,11 @@ book:
     - 02-fexibility.qmd
     - 03-courses-in-the-program.qmd
     - fees-entire-program.qmd
+    
     - 13-learning-paths-available.qmd
+    - 17-pgd-mtech-upgrade-path.qmd
+    - 18-apprenticeship-in-the-BS-level.qmd
+    - 19-software-hardware-requirements.qmd
     - 20-non-academic-rules.qmd
     
     - part: "Appendices"

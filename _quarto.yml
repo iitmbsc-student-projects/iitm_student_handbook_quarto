@@ -1,8 +1,11 @@
 project:
   type: book
   output-dir: _book
+  preview:
+    port: 4444
 execute:
   freeze: auto
+
   
 
 book:
@@ -28,6 +31,7 @@ book:
     - 02-fexibility.qmd
     - 03-courses-in-the-program.qmd
     - 04-fees-entire-program.qmd
+    - 11_design_certificates_levels_program.qmd
     - 13-learning-paths-available.qmd
     - 17-pgd-mtech-upgrade-path.qmd
     - 18-apprenticeship-in-the-bs-level.qmd

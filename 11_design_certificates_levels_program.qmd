@@ -1,0 +1,93 @@
+---
+title: "Design of certificates for the 4 levels of the program"
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+---
+
+The design has been finalised for the 4 levels of certificates, as shown on the website.
+
+## BS Certificate
+
+:::{.cell}
+![BS Certificate](images/11_design_certificates_levels_program/fig_bs_certificate.jpg){#fig-bs-cert}
+:::
+
+
+
+## BSc Certificate
+
+:::{.cell}
+
+![BSc Certificate](images/11_design_certificates_levels_program/fig_bsc_certificate.jpg){#fig-bsc-cert}
+
+:::
+
+## Diploma in Data Science Certificate
+
+:::{.cell}
+
+![Diploma in Data Science Certificate](images/11_design_certificates_levels_program/fig_datascience_certificate.jpg){#fig-datascience-cert}
+
+:::
+
+
+## Diploma in Programming Certificate
+
+:::{.cell}
+![Programming Certificate](images/11_design_certificates_levels_program/fig_programming_certificate.jpg){#fig-programming-cert}
+
+:::
+
+## Foundation Certificate
+
+:::{.cell }
+
+![Foundation Certificate](images/11_design_certificates_levels_program/fig_foundation_certificate.jpg){#fig-foundation-cert}
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Design for provisional certificates: 
+
+## Provisional BS Certificate
+
+:::{.cell }
+![Provisional BS Certificate](images/11_design_certificates_levels_program/provisional_bsc.png){#fig-provisonal-bs-cert}
+:::
+
+## Provisional Diploma in Data Science Certificate
+
+:::{.cell }
+
+![Provisional Diploma in Data Science Certificate](images/11_design_certificates_levels_program/provisional_datascience_diploma.png){#fig-provisional-datascience-cert}
+
+:::
+
+## Provisional Diploma in Programming Certificate
+
+:::{.cell }
+![Provisional Programming Certificate](images/11_design_certificates_levels_program/provisional_programming_diploma.png){#fig-provisional-programming-cert}
+
+:::
+
+## TODO
+
+-   [ ] The images are not rendering in pdf version

@@ -130,13 +130,103 @@
     ]
   },
   {
+    "objectID": "11_design_certificates_levels_program.html",
+    "href": "11_design_certificates_levels_program.html",
+    "title": "5  Design of certificates for the 4 levels of the program",
+    "section": "",
+    "text": "5.1 BS Certificate\nThe design has been finalised for the 4 levels of certificates, as shown on the website.\nFigure 5.1: BS Certificate",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Design of certificates for the 4 levels of the program</span>"
+    ]
+  },
+  {
+    "objectID": "11_design_certificates_levels_program.html#bsc-certificate",
+    "href": "11_design_certificates_levels_program.html#bsc-certificate",
+    "title": "5  Design of certificates for the 4 levels of the program",
+    "section": "5.2 BSc Certificate",
+    "text": "5.2 BSc Certificate\n\n\n\n\n\n\n\nFigure 5.2: BSc Certificate",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Design of certificates for the 4 levels of the program</span>"
+    ]
+  },
+  {
+    "objectID": "11_design_certificates_levels_program.html#diploma-in-data-science-certificate",
+    "href": "11_design_certificates_levels_program.html#diploma-in-data-science-certificate",
+    "title": "5  Design of certificates for the 4 levels of the program",
+    "section": "5.3 Diploma in Data Science Certificate",
+    "text": "5.3 Diploma in Data Science Certificate\n\n\n\n\n\n\n\nFigure 5.3: Diploma in Data Science Certificate",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Design of certificates for the 4 levels of the program</span>"
+    ]
+  },
+  {
+    "objectID": "11_design_certificates_levels_program.html#diploma-in-programming-certificate",
+    "href": "11_design_certificates_levels_program.html#diploma-in-programming-certificate",
+    "title": "5  Design of certificates for the 4 levels of the program",
+    "section": "5.4 Diploma in Programming Certificate",
+    "text": "5.4 Diploma in Programming Certificate\n\n\n\n\n\n\n\nFigure 5.4: Programming Certificate",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Design of certificates for the 4 levels of the program</span>"
+    ]
+  },
+  {
+    "objectID": "11_design_certificates_levels_program.html#foundation-certificate",
+    "href": "11_design_certificates_levels_program.html#foundation-certificate",
+    "title": "5  Design of certificates for the 4 levels of the program",
+    "section": "5.5 Foundation Certificate",
+    "text": "5.5 Foundation Certificate\n\n\n\n\n\n\n\nFigure 5.5: Foundation Certificate\n\n\n\n\nDesign for provisional certificates:",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Design of certificates for the 4 levels of the program</span>"
+    ]
+  },
+  {
+    "objectID": "11_design_certificates_levels_program.html#provisional-bs-certificate",
+    "href": "11_design_certificates_levels_program.html#provisional-bs-certificate",
+    "title": "5  Design of certificates for the 4 levels of the program",
+    "section": "5.6 Provisional BS Certificate",
+    "text": "5.6 Provisional BS Certificate\n\n\n\n\n\n\n\nFigure 5.6: Provisional BS Certificate",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Design of certificates for the 4 levels of the program</span>"
+    ]
+  },
+  {
+    "objectID": "11_design_certificates_levels_program.html#provisional-diploma-in-data-science-certificate",
+    "href": "11_design_certificates_levels_program.html#provisional-diploma-in-data-science-certificate",
+    "title": "5  Design of certificates for the 4 levels of the program",
+    "section": "5.7 Provisional Diploma in Data Science Certificate",
+    "text": "5.7 Provisional Diploma in Data Science Certificate\n\n\n\n\n\n\n\nFigure 5.7: Provisional Diploma in Data Science Certificate",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Design of certificates for the 4 levels of the program</span>"
+    ]
+  },
+  {
+    "objectID": "11_design_certificates_levels_program.html#provisional-diploma-in-programming-certificate",
+    "href": "11_design_certificates_levels_program.html#provisional-diploma-in-programming-certificate",
+    "title": "5  Design of certificates for the 4 levels of the program",
+    "section": "5.8 Provisional Diploma in Programming Certificate",
+    "text": "5.8 Provisional Diploma in Programming Certificate\n\n\n\n\n\n\n\nFigure 5.8: Provisional Programming Certificate",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Design of certificates for the 4 levels of the program</span>"
+    ]
+  },
+  {
+    "objectID": "11_design_certificates_levels_program.html#todo",
+    "href": "11_design_certificates_levels_program.html#todo",
+    "title": "5  Design of certificates for the 4 levels of the program",
+    "section": "5.9 TODO",
+    "text": "5.9 TODO\n\nThe images are not rendering in pdf version",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Design of certificates for the 4 levels of the program</span>"
+    ]
+  },
+  {
     "objectID": "13-learning-paths-available.html",
     "href": "13-learning-paths-available.html",
     "title": "Learning Paths Overview",
     "section": "",
     "text": "13. Learning paths available\nHere are some suggested learning paths:",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Learning Paths Overview</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Learning Paths Overview</span>"
     ]
   },
   {
@@ -146,7 +236,7 @@
     "section": "",
     "text": "Foundation course certificate\n\nDiploma in Programming\n\nDiploma in Data Science\n\nDiploma in Programming and Data Science\n\nBSc degree in Programming and Data Science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTerm\nFoundation\nPlan for One Diploma\nPlan for Both the Diplomas\nBSc Degree\nBS Degree\nShortest Path for BSc Degree\n\n\n\n\nYear 1\nTerm 1\n3\n1\n1\n2\n2\n4\n\n\n\nTerm 2\n2\n2\n2\n3\n3\n4\n\n\n\nTerm 3\n3\n2\n2\n3\n3\n4\n\n\nYear 2\nTerm 1\n\n2\n2\n3\n3\n4\n\n\n\nTerm 2\n\n1\n2\n2\n2\n4\n\n\n\nTerm 3\n\n2\n2\n2\n2\n4\n\n\nYear 3\nTerm 1\n\n1\n1\n3\n3\n4\n\n\n\nTerm 2\n\n1\n2\n3\n3\n3\n\n\n\nTerm 3\n\n2\n1\n2\n2\n\n\n\nYear 4\nTerm 1\n\n\n2\n3\n3\n\n\n\n\nTerm 2\n\n\n2\n2\n2\n\n\n\n\nTerm 3\n\n\n1\n3\n3\n\n\n\nTotal Courses\n\n8\n14\n20\n31\n\n31",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Learning Paths Overview</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Learning Paths Overview</span>"
     ]
   },
   {
@@ -156,7 +246,7 @@
     "section": "13.1 Prerequisite course requirements",
     "text": "13.1 Prerequisite course requirements\n\nFoundation courses\n\n\n\nLevel\nCourse\nPre-req\nCoreq\n\n\n\n\nFoundation\nMaths 1\n-\n-\n\n\n\nStatistics 1\n-\n-\n\n\n\nEnglish 1\n-\n-\n\n\n\nCT\n-\n-\n\n\n\nMaths 2\nMaths 1\n\n\n\n\nStatistics 2\nStatistics 1\nMaths 2\n\n\n\nEnglish 2\nEnglish 1\n\n\n\n\nIntro to Python\nCT\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\n\nA co-requisite for Statistics-2 is Maths-2. So either Maths-2 has to be done before Statistics-2 or both can be taken together. Statistics-2 cannot be done without having done Maths-2.\n\nAll the 8 Foundation courses should be completed before the candidate can register to any Year 2 Diploma level course.\n\n\n\n\n\nDiploma level courses\n\n\n\nLevel\nCourse\nPre-req\nCoreq\n\n\n\n\nDiploma in DS\nMLF\n-\n-\n\n\n\nBDM\n-\n-\n\n\n\nMLT\n\nMLF\n\n\n\nMLP\nMLT, MLF\n\n\n\n\nBA\nBDM\n\n\n\n\nTDS\n\nMLF\n\n\nDiploma in Prog\nDBMS\n-\n-\n\n\n\nPDSA\n-\n-\n\n\n\nApp dev 1\n-\nDBMS\n\n\n\nJava\n-\n-\n\n\n\nApp dev 2\nApp dev 1\n\n\n\n\nSC\n-\n-\n\n\n\n\nWithout completing all the 8 Foundation courses and the 12 Diploma level courses plus 4 project courses, one cannot proceed to register for Year 3 Degree level courses.\n\n\n\nDegree Level Courses\n\n\nPlease note that L5_Degree courses are complex compared to Degree and L4_Degree courses. Course fee and credits are the same as L4_Degree courses.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Learning Paths Overview</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Learning Paths Overview</span>"
     ]
   },
   {
@@ -166,229 +256,229 @@
     "section": "TODO List",
     "text": "TODO List\n\nComplete section on learning paths\nFix broken image paths\nReview the introduction chapter\nThis is a sample citation to Knuth’s work (Knuth 1984).\nthe above dummy has been created so that atleast one reference exists\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Learning Paths Overview</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Learning Paths Overview</span>"
     ]
   },
   {
     "objectID": "17-pgd-mtech-upgrade-path.html",
     "href": "17-pgd-mtech-upgrade-path.html",
-    "title": "6  Pathways to get admission to Masters or Research programs at IITM",
+    "title": "7  Pathways to get admission to Masters or Research programs at IITM",
     "section": "",
-    "text": "6.1 Get a GATE score/rank and apply to IITM’s MTech/MS or PhD programs (Campus program)\n[Updated on April 12,2025]\nThe table below summarises the main differences between an MTech and an MS program.\nFor more details on comparison between MS and MTech Upgrade refer to this document -\nhttps://docs.google.com/document/d/e/2PACX-1vTmdXgF6oxRydXjIm_H_VmAWlbhcKGkEZt5D30t2l4rWCRBq9WyaqHXjCJlhZVnzt2yYghTULMFO4-O/pub\nThe details in this document are subject to change and are tentative guidelines. Please check IITM’s website for the rules currently applicable to each process.\nWriting the GATE exam opens doors to you at hundreds of institutes, not just IITM. Using the GATE score, you can apply for an MTech, MS, or PhD depending on what other degree you have apart from the BS degree.\nThis is our most recommended option for all students as the GATE score also enables you to apply to PSU jobs.\nCheck the link for more details: https://research.iitm.ac.in/",
+    "text": "7.1 Get a GATE score/rank and apply to IITM’s MTech/MS or PhD programs (Campus program)\n[Updated on April 12,2025]\nThe table below summarises the main differences between an MTech and an MS program.\nFor more details on comparison between MS and MTech Upgrade refer to this document -\nhttps://docs.google.com/document/d/e/2PACX-1vTmdXgF6oxRydXjIm_H_VmAWlbhcKGkEZt5D30t2l4rWCRBq9WyaqHXjCJlhZVnzt2yYghTULMFO4-O/pub\nThe details in this document are subject to change and are tentative guidelines. Please check IITM’s website for the rules currently applicable to each process.\nWriting the GATE exam opens doors to you at hundreds of institutes, not just IITM. Using the GATE score, you can apply for an MTech, MS, or PhD depending on what other degree you have apart from the BS degree.\nThis is our most recommended option for all students as the GATE score also enables you to apply to PSU jobs.\nCheck the link for more details: https://research.iitm.ac.in/",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Pathways to get admission to Masters or Research programs at IITM</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Pathways to get admission to Masters or Research programs at IITM</span>"
     ]
   },
   {
     "objectID": "17-pgd-mtech-upgrade-path.html#get-a-gate-scorerank-and-apply-to-iitms-mtechms-or-phd-programs-campus-program",
     "href": "17-pgd-mtech-upgrade-path.html#get-a-gate-scorerank-and-apply-to-iitms-mtechms-or-phd-programs-campus-program",
-    "title": "6  Pathways to get admission to Masters or Research programs at IITM",
+    "title": "7  Pathways to get admission to Masters or Research programs at IITM",
     "section": "",
     "text": "You will get a stipend from the institute if you join the MTech (HTTA) / MS or PhD program.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Pathways to get admission to Masters or Research programs at IITM</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Pathways to get admission to Masters or Research programs at IITM</span>"
     ]
   },
   {
     "objectID": "17-pgd-mtech-upgrade-path.html#apply-for-the-ms-program-as-a-cfti-student-if-you-have-cgpa-8.0-in-iitms-bs-program-campus-program",
     "href": "17-pgd-mtech-upgrade-path.html#apply-for-the-ms-program-as-a-cfti-student-if-you-have-cgpa-8.0-in-iitms-bs-program-campus-program",
-    "title": "6  Pathways to get admission to Masters or Research programs at IITM",
-    "section": "6.2 Apply for the MS program as a CFTI student if you have CGPA ≥ 8.0 in IITM’s BS program (Campus program)",
-    "text": "6.2 Apply for the MS program as a CFTI student if you have CGPA ≥ 8.0 in IITM’s BS program (Campus program)\n\nGATE score is not required.\nYou must go through the admission process, which may involve a test and/or interview.\nThe program will involve at least 1 year of coursework and another 1–2 years of research work.\nMonthly stipend is provided by the institute.\nOutcomes:\n\nComplete MS and apply for a job.\nUpgrade and convert the MS into a PhD at IITM.\nComplete the MS and apply for a PhD at IITM or outside.\n\n\nThe Senate noted the omission of the CFTI clause and approved to include the CFTI clause in the minimum requirements for admission to MS programs for the departments of MST and DSAI at IIT Madras.\nCheck the link for more details: https://research.iitm.ac.in/",
+    "title": "7  Pathways to get admission to Masters or Research programs at IITM",
+    "section": "7.2 Apply for the MS program as a CFTI student if you have CGPA ≥ 8.0 in IITM’s BS program (Campus program)",
+    "text": "7.2 Apply for the MS program as a CFTI student if you have CGPA ≥ 8.0 in IITM’s BS program (Campus program)\n\nGATE score is not required.\nYou must go through the admission process, which may involve a test and/or interview.\nThe program will involve at least 1 year of coursework and another 1–2 years of research work.\nMonthly stipend is provided by the institute.\nOutcomes:\n\nComplete MS and apply for a job.\nUpgrade and convert the MS into a PhD at IITM.\nComplete the MS and apply for a PhD at IITM or outside.\n\n\nThe Senate noted the omission of the CFTI clause and approved to include the CFTI clause in the minimum requirements for admission to MS programs for the departments of MST and DSAI at IIT Madras.\nCheck the link for more details: https://research.iitm.ac.in/",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Pathways to get admission to Masters or Research programs at IITM</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Pathways to get admission to Masters or Research programs at IITM</span>"
     ]
   },
   {
     "objectID": "17-pgd-mtech-upgrade-path.html#apply-to-the-ms-program-as-project-staff-within-iitm-campus-program",
     "href": "17-pgd-mtech-upgrade-path.html#apply-to-the-ms-program-as-project-staff-within-iitm-campus-program",
-    "title": "6  Pathways to get admission to Masters or Research programs at IITM",
-    "section": "6.3 Apply to the MS program as Project Staff within IITM (Campus program)",
-    "text": "6.3 Apply to the MS program as Project Staff within IITM (Campus program)\n\nIf you are appointed as project staff in any project with faculty at IITM, you may be eligible for project admission to the MS program.\nWhile you are project staff, you need to register for courses on campus, as approved by your project faculty.\nYou must complete two approved courses at IITM with CGPA ≥ 7.5, and obtain at least a ‘C’ grade in each course to be eligible to apply for admission.\nGATE score or minimum CGPA in the IITM BS program is not required for this mode of admission.\nYou must go through the admission process as stipulated by the department, which can include a test and/or interview.\nThe institute does not pay you a stipend; you are supported through the project. The payment you get from the project is fixed by the PI.\nOutcomes:\n\nComplete MS and apply for a job.\nComplete MS and apply for a PhD at IITM or elsewhere.\nUpgrade and convert the MS into a PhD at IITM.",
+    "title": "7  Pathways to get admission to Masters or Research programs at IITM",
+    "section": "7.3 Apply to the MS program as Project Staff within IITM (Campus program)",
+    "text": "7.3 Apply to the MS program as Project Staff within IITM (Campus program)\n\nIf you are appointed as project staff in any project with faculty at IITM, you may be eligible for project admission to the MS program.\nWhile you are project staff, you need to register for courses on campus, as approved by your project faculty.\nYou must complete two approved courses at IITM with CGPA ≥ 7.5, and obtain at least a ‘C’ grade in each course to be eligible to apply for admission.\nGATE score or minimum CGPA in the IITM BS program is not required for this mode of admission.\nYou must go through the admission process as stipulated by the department, which can include a test and/or interview.\nThe institute does not pay you a stipend; you are supported through the project. The payment you get from the project is fixed by the PI.\nOutcomes:\n\nComplete MS and apply for a job.\nComplete MS and apply for a PhD at IITM or elsewhere.\nUpgrade and convert the MS into a PhD at IITM.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Pathways to get admission to Masters or Research programs at IITM</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Pathways to get admission to Masters or Research programs at IITM</span>"
     ]
   },
   {
     "objectID": "17-pgd-mtech-upgrade-path.html#upgrade-to-the-on-campus-ms-program",
     "href": "17-pgd-mtech-upgrade-path.html#upgrade-to-the-on-campus-ms-program",
-    "title": "6  Pathways to get admission to Masters or Research programs at IITM",
-    "section": "6.4 Upgrade to the On-Campus MS program",
-    "text": "6.4 Upgrade to the On-Campus MS program\n\nAfter completing 106 credits and achieving CGPA ≥ 8.0, you can apply in May/November each year through the form floated by the POD team for direct upgrade to MS.\nIf selected, you will do BS-level courses on campus (16 credits of coursework + 12 credits of project work).\nSelection will be through a test and/or interview.\nOnce the BS-level credits are completed, you will be assessed for admission into the MS program.\nA stipend will be paid by the institute as per prevailing norms.\nFees to be paid for the MS program are listed on the website.\n\nReference Doc: https://docs.google.com/spreadsheets/d/e/2PACX-1vQYJJLnpZt6d0IvEVSx8bhzUFQ8hImK7sAVvSLxZ_6flZbtBp87hWKg2AuorYPFzquT1vQG-FerAUMy/pubhtml",
+    "title": "7  Pathways to get admission to Masters or Research programs at IITM",
+    "section": "7.4 Upgrade to the On-Campus MS program",
+    "text": "7.4 Upgrade to the On-Campus MS program\n\nAfter completing 106 credits and achieving CGPA ≥ 8.0, you can apply in May/November each year through the form floated by the POD team for direct upgrade to MS.\nIf selected, you will do BS-level courses on campus (16 credits of coursework + 12 credits of project work).\nSelection will be through a test and/or interview.\nOnce the BS-level credits are completed, you will be assessed for admission into the MS program.\nA stipend will be paid by the institute as per prevailing norms.\nFees to be paid for the MS program are listed on the website.\n\nReference Doc: https://docs.google.com/spreadsheets/d/e/2PACX-1vQYJJLnpZt6d0IvEVSx8bhzUFQ8hImK7sAVvSLxZ_6flZbtBp87hWKg2AuorYPFzquT1vQG-FerAUMy/pubhtml",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Pathways to get admission to Masters or Research programs at IITM</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Pathways to get admission to Masters or Research programs at IITM</span>"
     ]
   },
   {
     "objectID": "17-pgd-mtech-upgrade-path.html#upgrade-to-a-pg-diploma-or-mtech-degree-online-after-the-bs",
     "href": "17-pgd-mtech-upgrade-path.html#upgrade-to-a-pg-diploma-or-mtech-degree-online-after-the-bs",
-    "title": "6  Pathways to get admission to Masters or Research programs at IITM",
-    "section": "6.5 Upgrade to a PG Diploma or MTech Degree Online after the BS",
-    "text": "6.5 Upgrade to a PG Diploma or MTech Degree Online after the BS\nOnce a student completes 142 credits and the BS degree, they can continue to study more courses.\n\nCompleting 20 more credits (3 core + 2 electives) earns a PG Diploma.\nContinuing to complete a 20-credit project earns an MTech from IIT Madras.\n\nAdditional points:\n\nThis upgrade option can be exercised anytime after completing 106 credits until reaching 142 credits.\nCGPA cutoff required in the BS program for applying for this upgrade is 8.00.\nThis option is recommended for working professionals who cannot afford to leave their jobs.\nIt is strongly recommended that standalone students (who joined BS after Std XII) write the GATE exam and join a college for a Master’s degree, instead of choosing this online upgrade.\n\nReference Doc: https://docs.google.com/document/d/e/2PACX-1vRrtiiHlurfHtFnJnDwtNZ0NHAci8PQ7pHsiX3V3SZKmbSmALDk4whCO5La6efs4MSmBLVTH2ZfGJNL/pub",
+    "title": "7  Pathways to get admission to Masters or Research programs at IITM",
+    "section": "7.5 Upgrade to a PG Diploma or MTech Degree Online after the BS",
+    "text": "7.5 Upgrade to a PG Diploma or MTech Degree Online after the BS\nOnce a student completes 142 credits and the BS degree, they can continue to study more courses.\n\nCompleting 20 more credits (3 core + 2 electives) earns a PG Diploma.\nContinuing to complete a 20-credit project earns an MTech from IIT Madras.\n\nAdditional points:\n\nThis upgrade option can be exercised anytime after completing 106 credits until reaching 142 credits.\nCGPA cutoff required in the BS program for applying for this upgrade is 8.00.\nThis option is recommended for working professionals who cannot afford to leave their jobs.\nIt is strongly recommended that standalone students (who joined BS after Std XII) write the GATE exam and join a college for a Master’s degree, instead of choosing this online upgrade.\n\nReference Doc: https://docs.google.com/document/d/e/2PACX-1vRrtiiHlurfHtFnJnDwtNZ0NHAci8PQ7pHsiX3V3SZKmbSmALDk4whCO5La6efs4MSmBLVTH2ZfGJNL/pub",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Pathways to get admission to Masters or Research programs at IITM</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Pathways to get admission to Masters or Research programs at IITM</span>"
     ]
   },
   {
     "objectID": "17-pgd-mtech-upgrade-path.html#todo",
     "href": "17-pgd-mtech-upgrade-path.html#todo",
-    "title": "6  Pathways to get admission to Masters or Research programs at IITM",
-    "section": "6.6 TODO",
-    "text": "6.6 TODO\n\nTodo 1",
+    "title": "7  Pathways to get admission to Masters or Research programs at IITM",
+    "section": "7.6 TODO",
+    "text": "7.6 TODO\n\nTodo 1",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Pathways to get admission to Masters or Research programs at IITM</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Pathways to get admission to Masters or Research programs at IITM</span>"
     ]
   },
   {
     "objectID": "18-apprenticeship-in-the-bs-level.html",
     "href": "18-apprenticeship-in-the-bs-level.html",
-    "title": "7  Apprenticeship in the BS level of IIT Madras BS in Data Science and Applications",
+    "title": "8  Apprenticeship in the BS level of IIT Madras BS in Data Science and Applications",
     "section": "",
-    "text": "7.1 TODO\nThe program provides the students in the BS level of the program to pursue an apprenticeship with companies and research projects and earn up to 12 credits in this level. Doing an apprenticeship is optional.\nSteps involved in the Apprenticeship program:\nThe following will be norms with respect to pursuing an apprenticeship:",
+    "text": "8.1 TODO\nThe program provides the students in the BS level of the program to pursue an apprenticeship with companies and research projects and earn up to 12 credits in this level. Doing an apprenticeship is optional.\nSteps involved in the Apprenticeship program:\nThe following will be norms with respect to pursuing an apprenticeship:",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Apprenticeship in the BS level of IIT Madras BS in Data Science and Applications</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Apprenticeship in the BS level of IIT Madras BS in Data Science and Applications</span>"
     ]
   },
   {
     "objectID": "18-apprenticeship-in-the-bs-level.html#todo",
     "href": "18-apprenticeship-in-the-bs-level.html#todo",
-    "title": "7  Apprenticeship in the BS level of IIT Madras BS in Data Science and Applications",
+    "title": "8  Apprenticeship in the BS level of IIT Madras BS in Data Science and Applications",
     "section": "",
     "text": "Todo 1",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Apprenticeship in the BS level of IIT Madras BS in Data Science and Applications</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Apprenticeship in the BS level of IIT Madras BS in Data Science and Applications</span>"
     ]
   },
   {
     "objectID": "19-software-hardware-requirements.html",
     "href": "19-software-hardware-requirements.html",
-    "title": "8  Software and Hardware Requirements - Mandatory System Specifications",
+    "title": "9  Software and Hardware Requirements - Mandatory System Specifications",
     "section": "",
-    "text": "8.1 Hardware\nThe following are the essential requirements that are recommended to pursue the BSc Degree program from IIT Madras1. Please note that there will be updates in some of the specifications with changes happening in technology.\nTo enroll and study in the program, every student is required to have a laptop or desktop with the minimum configuration being as follows:",
+    "text": "9.1 Hardware\nThe following are the essential requirements that are recommended to pursue the BSc Degree program from IIT Madras1. Please note that there will be updates in some of the specifications with changes happening in technology.\nTo enroll and study in the program, every student is required to have a laptop or desktop with the minimum configuration being as follows:",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Software and Hardware Requirements - Mandatory System Specifications</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Software and Hardware Requirements - Mandatory System Specifications</span>"
     ]
   },
   {
     "objectID": "19-software-hardware-requirements.html#hardware",
     "href": "19-software-hardware-requirements.html#hardware",
-    "title": "8  Software and Hardware Requirements - Mandatory System Specifications",
+    "title": "9  Software and Hardware Requirements - Mandatory System Specifications",
     "section": "",
     "text": "RAM Size - 8 GB or higher (The ability to install more memory is desirable).\n\nProcessor - Intel 8th Generation or AMD 4th Generation or upwards or its equivalent (The latest processor configuration is always recommended)\n\nStorage - Minimum of 500 GB, Desirable of 1 TB. Having an SSD storage is desirable.\n\nScreen size and resolution - Minimum of 13” for laptop and Minimum of 15” for desktop with 1080p\n\nWebcamera, a mic and speaker or an earphone/headphone with mic.",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Software and Hardware Requirements - Mandatory System Specifications</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Software and Hardware Requirements - Mandatory System Specifications</span>"
     ]
   },
   {
     "objectID": "19-software-hardware-requirements.html#softwareapplications",
     "href": "19-software-hardware-requirements.html#softwareapplications",
-    "title": "8  Software and Hardware Requirements - Mandatory System Specifications",
-    "section": "8.2 Software/Applications",
-    "text": "8.2 Software/Applications\n\nOperating System - Minimum requirement of Windows 10 or Ubuntu LTS Version 20.04 (or any equivalent) or Mac OS Mojave. Having the capability of dual boot is desirable. If there is no capability for dual boot, then the operating system must support virtualization software like VirtualBox using which Ubuntu 20.04 can be emulated. The System Commands course in Semester 4 will be taught primarily on Ubuntu 20.04.\n\nBrowser - Latest version of Chrome with Google Account signed in\n\nBasic familiarity with Google Suite of tools (Docs, Sheets and Slides), specifically collaboration features.\n\nAny other software that is specified within the course",
+    "title": "9  Software and Hardware Requirements - Mandatory System Specifications",
+    "section": "9.2 Software/Applications",
+    "text": "9.2 Software/Applications\n\nOperating System - Minimum requirement of Windows 10 or Ubuntu LTS Version 20.04 (or any equivalent) or Mac OS Mojave. Having the capability of dual boot is desirable. If there is no capability for dual boot, then the operating system must support virtualization software like VirtualBox using which Ubuntu 20.04 can be emulated. The System Commands course in Semester 4 will be taught primarily on Ubuntu 20.04.\n\nBrowser - Latest version of Chrome with Google Account signed in\n\nBasic familiarity with Google Suite of tools (Docs, Sheets and Slides), specifically collaboration features.\n\nAny other software that is specified within the course",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Software and Hardware Requirements - Mandatory System Specifications</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Software and Hardware Requirements - Mandatory System Specifications</span>"
     ]
   },
   {
     "objectID": "19-software-hardware-requirements.html#internet-bandwidth",
     "href": "19-software-hardware-requirements.html#internet-bandwidth",
-    "title": "8  Software and Hardware Requirements - Mandatory System Specifications",
-    "section": "8.3 Internet Bandwidth",
-    "text": "8.3 Internet Bandwidth\nMinimum of 2 MBPS connection is required to attend sessions without disruptions. However we strongly recommend broadband connections with much higher bandwidth for the best learning experience.",
+    "title": "9  Software and Hardware Requirements - Mandatory System Specifications",
+    "section": "9.3 Internet Bandwidth",
+    "text": "9.3 Internet Bandwidth\nMinimum of 2 MBPS connection is required to attend sessions without disruptions. However we strongly recommend broadband connections with much higher bandwidth for the best learning experience.",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Software and Hardware Requirements - Mandatory System Specifications</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Software and Hardware Requirements - Mandatory System Specifications</span>"
     ]
   },
   {
     "objectID": "19-software-hardware-requirements.html#for-online-interactionsproctored-examinations",
     "href": "19-software-hardware-requirements.html#for-online-interactionsproctored-examinations",
-    "title": "8  Software and Hardware Requirements - Mandatory System Specifications",
-    "section": "8.4 For Online Interactions/Proctored Examinations",
-    "text": "8.4 For Online Interactions/Proctored Examinations\n\nBrowser - Latest version of Chrome is desirable\n\nMobile with a front camera and good internet connection (VOLTE connections are ideal)\n\nMic and speaker to be able to speak to and listen to the person at the other end\n\nAny applications as required to be installed for the interactions/examinations",
+    "title": "9  Software and Hardware Requirements - Mandatory System Specifications",
+    "section": "9.4 For Online Interactions/Proctored Examinations",
+    "text": "9.4 For Online Interactions/Proctored Examinations\n\nBrowser - Latest version of Chrome is desirable\n\nMobile with a front camera and good internet connection (VOLTE connections are ideal)\n\nMic and speaker to be able to speak to and listen to the person at the other end\n\nAny applications as required to be installed for the interactions/examinations",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Software and Hardware Requirements - Mandatory System Specifications</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Software and Hardware Requirements - Mandatory System Specifications</span>"
     ]
   },
   {
     "objectID": "19-software-hardware-requirements.html#system-compatibility-test",
     "href": "19-software-hardware-requirements.html#system-compatibility-test",
-    "title": "8  Software and Hardware Requirements - Mandatory System Specifications",
-    "section": "8.5 System compatibility test",
-    "text": "8.5 System compatibility test\nAll students have to mandatorily attend the system compatibility test and ensure that the system you have conforms to the above requirements and student has to participate in this on the dates mentioned by the Admin team to get this completed.",
+    "title": "9  Software and Hardware Requirements - Mandatory System Specifications",
+    "section": "9.5 System compatibility test",
+    "text": "9.5 System compatibility test\nAll students have to mandatorily attend the system compatibility test and ensure that the system you have conforms to the above requirements and student has to participate in this on the dates mentioned by the Admin team to get this completed.",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Software and Hardware Requirements - Mandatory System Specifications</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Software and Hardware Requirements - Mandatory System Specifications</span>"
     ]
   },
   {
     "objectID": "19-software-hardware-requirements.html#other-references",
     "href": "19-software-hardware-requirements.html#other-references",
-    "title": "8  Software and Hardware Requirements - Mandatory System Specifications",
-    "section": "8.6 Other References",
-    "text": "8.6 Other References\nSome more helpful links that will help you in understanding possible system configurations:\n\nhttps://towardsdatascience.com/20-necessary-requirements-of-a-perfect-laptop-for-data-science-and-machine-learning-tasks-7d0c59c3cb63\n\nhttps://www.practicaldatascience.org/html/buying_datascience_computer.html\n\nhttps://www.umass.edu/it/support/hardware/recommended-minimum-computer-configurations-windows\n\nhttps://www.du.edu/it/support/how-to/students/laptops\n\nhttps://wmich.edu/cs/laptop-requirements",
+    "title": "9  Software and Hardware Requirements - Mandatory System Specifications",
+    "section": "9.6 Other References",
+    "text": "9.6 Other References\nSome more helpful links that will help you in understanding possible system configurations:\n\nhttps://towardsdatascience.com/20-necessary-requirements-of-a-perfect-laptop-for-data-science-and-machine-learning-tasks-7d0c59c3cb63\n\nhttps://www.practicaldatascience.org/html/buying_datascience_computer.html\n\nhttps://www.umass.edu/it/support/hardware/recommended-minimum-computer-configurations-windows\n\nhttps://www.du.edu/it/support/how-to/students/laptops\n\nhttps://wmich.edu/cs/laptop-requirements",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Software and Hardware Requirements - Mandatory System Specifications</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Software and Hardware Requirements - Mandatory System Specifications</span>"
     ]
   },
   {
     "objectID": "19-software-hardware-requirements.html#todo",
     "href": "19-software-hardware-requirements.html#todo",
-    "title": "8  Software and Hardware Requirements - Mandatory System Specifications",
-    "section": "8.7 TODO",
-    "text": "8.7 TODO\n\nClarify the IIT Madras 1 reference in footnote",
+    "title": "9  Software and Hardware Requirements - Mandatory System Specifications",
+    "section": "9.7 TODO",
+    "text": "9.7 TODO\n\nClarify the IIT Madras 1 reference in footnote",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Software and Hardware Requirements - Mandatory System Specifications</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Software and Hardware Requirements - Mandatory System Specifications</span>"
     ]
   },
   {
     "objectID": "19-software-hardware-requirements.html#footnotes",
     "href": "19-software-hardware-requirements.html#footnotes",
-    "title": "8  Software and Hardware Requirements - Mandatory System Specifications",
+    "title": "9  Software and Hardware Requirements - Mandatory System Specifications",
     "section": "",
     "text": "These requirements are listed on the official IIT Madras online portal, updated in 2025.↩︎",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Software and Hardware Requirements - Mandatory System Specifications</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Software and Hardware Requirements - Mandatory System Specifications</span>"
     ]
   },
   {
     "objectID": "20-non-academic-rules.html",
     "href": "20-non-academic-rules.html",
-    "title": "9  Non Academic Rules",
+    "title": "10  Non Academic Rules",
     "section": "",
-    "text": "9.1 TODO\nhttps://docs.google.com/document/u/1/d/1N5ZmPJZUDHznjt6G_ZiRS1baG_WpOfJM-oFnvWve76Y/pub",
+    "text": "10.1 TODO\nhttps://docs.google.com/document/u/1/d/1N5ZmPJZUDHznjt6G_ZiRS1baG_WpOfJM-oFnvWve76Y/pub",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Non Academic Rules</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Non Academic Rules</span>"
     ]
   },
   {
     "objectID": "20-non-academic-rules.html#todo",
     "href": "20-non-academic-rules.html#todo",
-    "title": "9  Non Academic Rules",
+    "title": "10  Non Academic Rules",
     "section": "",
     "text": "Review and finalize content for Non Academic Rules section.\nConfirm if external link is sufficient or if content should be embedded.\nCheck formatting for Quarto compatibility.",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Non Academic Rules</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Non Academic Rules</span>"
     ]
   },
   {
     "objectID": "dummy.html",
     "href": "dummy.html",
-    "title": "10  Dummy Section",
+    "title": "11  Dummy Section",
     "section": "",
-    "text": "10.1 TODO",
+    "text": "11.1 TODO",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Dummy Section</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Dummy Section</span>"
     ]
   },
   {
     "objectID": "dummy.html#todo",
     "href": "dummy.html#todo",
-    "title": "10  Dummy Section",
+    "title": "11  Dummy Section",
     "section": "",
     "text": "Todo 1",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Dummy Section</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Dummy Section</span>"
     ]
   }
 ]

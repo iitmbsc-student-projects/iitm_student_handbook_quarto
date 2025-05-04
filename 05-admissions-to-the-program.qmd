@@ -1,0 +1,156 @@
+---
+title: "Admission to the programme"
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+---
+
+## Regular Entry into Foundation level 
+
+To enter the Foundation level, applicants have to pass the Qualifier exam.
+
+The Foundation courses allow for interested applicants with a variety of educational backgrounds to be trained in the basics (Math, Statistics, Computational Thinking, Python programming and English) required to take up the Diploma level of Programming & Data Science courses.
+
+**Entry: Via the Qualifier exam into the Foundation level**\
+**Exit 1. Foundation course certificate**\
+**Exit 2. Diploma in Programming/Data Science or both**\
+**Exit 3. BSc Degree in Programming and Data Science from IIT Madras**\
+**Exit 4: BS in Data Science and Applications from IIT Madras**
+
+### Eligibility to Apply for the Qualifier Exam 
+
+Minimum eligibility: Should have studied Mathematics and English in Class 10.
+
+1.  Anyone who has passed Class 12 or equivalent can apply irrespective of age or academic background. Those who qualify can join the program immediately. View list of accepted class 12 equivalents.\
+2.  School students who have appeared for their Class 11 final exams can apply irrespective of their group/stream/board. Those who qualify can join the program after passing Class 12.
+
+No additional eligibility other than the ones mentioned above is required to apply for the qualifier process or join the foundational level courses after clearing the qualifying exam.
+
+The week 1 content is available to all candidates to sample on the website (<https://study.iitm.ac.in/ds/academics.html#AC15>) and view when they fill the Qualifier exam form. The learner has to fill the qualifier form available on the website study.iitm.ac.in/ds
+
+The learner has to pay the fees for the Qualifier exam - currently set as Rs 3000/-for Gen category with suitable waivers for candidates from the SC/ST and PwD with 40% disability backgrounds. Currently there is no waiver for any other group of learners.\
+The fee will not be refunded once paid.
+
+###  Preparation for the Qualifier exam 
+
+All regular entry applicants must go through the 4 week Qualifier Process to earn admission to the Foundation Level.
+
+On the start date of the qualifier process week 1, access to the content for the four Foundation level courses - English 1, Maths-1, Statistics-1 and Computational Thinking will be provided.\
+The content that includes videos, tutorials, practice/graded assignments and text transcripts is released week wise.\
+The content will be made live with an announcement on the portal, and an alert through email.\
+Every week the graded assignment must be submitted in each course.
+
+###  Eligibility to appear for the qualifier exam 
+
+At the end of the 4 weeks, a qualifier exam will be conducted for eligible candidates based on the content covered in the 4 weeks of study.
+
+Each assignment will be graded out of 100\
+Any assignment that is not attempted will be marked as 0.\
+There is a change in the modality of finalizing the students who become eligible to write the\
+qualifier exam.\
+● If the average of the first 2 weeks’ assignment scores is \>= 40/100 (or as per the cutoff\
+for each category of students) in each of the 4 subjects, the students will be eligible to\
+write the qualifier exam in the first attempt within the term.\
+● For those who do not qualify after the week 2 assignments, the average of the best 2 out\
+of the first 3 weeks’ assignment scores will be considered. If this score is \>= 40/100 (or\
+as per the cutoff for each category of students) in each of the 4 subjects, the students\
+will become eligible to write the qualifier exam in the second attempt within the term.\
+● Reattempts within the term will be given suitably.
+
+Only those who get the minimum required average assignment scores in all four courses (as given below) will be allowed to appear for the Qualifier Exam.
+
+| Learner  | Minimum Score |
+|:---:|:---:|
+| General Learner | 40% |
+| SC / ST / PwD with 40% disability | 30% |
+| PwD with 40% disability & SC / ST | 30% |
+| OBC-NCL / EWS | 35% |
+: Minimum Average Assignment Score required in each course {.striped .hover}
+
+:::{.callout-note}
+Note: Relaxations in pass criteria indicated for various categories of learners is applicable ONLY for the qualifier process. There will be no relaxations in terms of grades / pass criteria once registered into the program.
+:::
+
+Hall tickets will be released for only those candidates who become eligible to take the in-person proctored Qualifier Exam.
+
+###  Criteria for passing the qualifier exam 
+
+In the qualifier exam comprising 4 subjects, the learner should obtain marks \>= individual subject cut-off as shown below. The total of all subject marks should be greater than the total cut-off. The cutoff marks are clearly specified for the different categories of learners in the table below.
+
+|   | Min. Req. Qualifier Exam Score in each course | Min. Req. Average Qualifier Exam Score |
+|------------------------|:----------------------:|:----------------------:|
+| General Learner | 40% | 50% |
+| SC / ST / PwD with 40% disability | 30% | 40% |
+| PwD with 40% disability & SC / ST | 30% | 40% |
+| OBC-NCL / EWS | 35% | 45% |
+
+The qualifier exam marks will be displayed within the login on the portal along with an email and whatsapp alert sent to the candidates about this.
+
+###  Validity of the qualifier score 
+
+The qualifier marks will be valid for the 3 terms that come subsequent to the qualifier exam date for the learner to register to the Foundation level. This score will be invalid after this period and the learner will have to go through the entire qualifier process (the 1 month of weekly assignments) and retake the qualifier exam, if they wish to join the programme.
+
+For students in std XII who take the qualifier exam, the validity is for 3 terms from when they pass std XII.
+
+###  Communication about qualifier exam results 
+
+Those who have qualified as per the above process will be intimated through email and whatsapp and within their login on the portal - if they are eligible to register further. An admission letter will also be generated and provided to each qualified candidate.
+
+Once a candidate has qualified, they will not be permitted to apply again until their score is valid, which is for the next 3 subsequent terms. After this they will be eligible to reapply again.
+
+The fees paid to attempt the Qualifier exam will not be refunded in either of the two situations - for those who missed writing the qualifier exam and for those who did not pass it.
+
+###  Second attempt: If a candidate was absent or failed the first attempt of qualifier exam 
+
+There are two attempts within any term currently. In every term, qualifier exams are conducted at the end of 4 weeks and at the end of 8 weeks.\
+Eligibility to apply for Reattempting Qualifier exam within the same term:
+
+-   A learner who became eligible for the hall ticket in the qualifier process of a term but was absent for the final exam\
+-   failed in the first attempt
+
+Such candidates do not have to repeat the assignments as they have already become eligible.\
+This re-attempt application form will open up immediately after the qualifier results are announced. The fee for this is as follows:
+
+| Category | Fees |
+|:-----------------------------------|:-----------------------------------|
+| General Category / OBC Applicant | ₹1500 re-attempt fee |
+| SC / ST Category / PwD (\>= 40% disability ) Applicant | ₹750 re-attempt fee |
+| SC / ST Category Applicant who is ALSO PwD (\>= 40% disability ) | ₹375 re-attempt fee |
+
+###  Candidates who did not become eligible for Qualifier exam 
+
+There are no limits on the number of times a candidate can attempt the qualifier process.\
+The candidate can attempt again the subsequent terms.\
+They have to pay the full fees as per the fee norms applicable for their category. (and additional exam facilitation fee in case of candidates outside India)\
+This will be considered like a fresh application and they have to redo the 4 weeks of course work and weekly graded assignments and become eligible to get the hall ticket for the qualifier exam
+
+###  Options to register to courses once qualified 
+
+-   Candidates who qualify in the first attempt within a term
+    -   have the option to register to courses and continue with completing them in the same term. In this case, qualifier score is treated as Quiz1 score to calculate the Final score.\
+    -   Have the option to register to courses in the next 2 terms till when the qualifier score is valid.\
+-   Candidates who qualify in the second attempt within a term can ONLY register from the subsequent term till the qualifier score is valid.
+
+In a learner’s first term immediately following the qualifier exam, the qualifier exam scores and assignment scores in the subjects registered will be considered as Quiz 1 score and first 4 assignment scores of the corresponding subjects.
+
+##  JEE-based Entry into Foundation Level 
+
+There is a direct entry into the Foundation level of the program for students who have qualified for the JEE Advanced Exams. Currently the validity of this is for the 3 terms following the release of the JEE Advanced Eligibility list.
+
+**Candidates who qualified to appear for JEE Advanced 2022 can directly join our program in the Sep 2023/Jan 2024 Term and Candidates who qualified to appear for JEE Advanced 2023 can directly join our program in the Sep 2023/Jan 2024/May 2024/Sep 2024/Jan 2025 Terms**
+
+The process will be as follows:
+
+Apply to the Qualifier process, saying Yes to the question on eligibility to JEE Advanced level. Upload a valid proof for the same.
+
+-   If the proof is found to be valid:
+    -   The candidate will be declared eligible to join the Foundational level courses.\
+    -   They will be issued the admission letter.\
+    -   Such candidates can directly register to courses in the foundation level with CCC as 4.
+-   If the proof document submitted is found to be not valid, the student will be moved into the category of non-JEE and will be treated as a regular entry candidate to the foundation level and have to go through the qualifier process.
+
+## TODO
+
+- [ ] Learner Life cycle is not linked
